@@ -1,0 +1,72 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   Voyage/Assembly-CSharp-vs.csproj
+#	modified:   Voyage/Assembly-CSharp.csproj
+#	modified:   Voyage/Assets/Level01.unity
+#	modified:   Voyage/Library/AssetServerCacheV3
+#	modified:   Voyage/Library/InspectorExpandedItems.asset
+#	modified:   Voyage/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Voyage/Library/assetDatabase3
+#	modified:   Voyage/Library/guidmapper
+#	modified:   Voyage/Library/metadata/0e/0e2facc4f88a84663b87f3c73e6f9b42
+#	modified:   Voyage/Library/metadata/1c/1c1c095e66523429d8d20a22d662d63f
+#	deleted:    Voyage/Library/metadata/2a/2a7ea70778bff41b48fbf5df656318b1
+#	deleted:    Voyage/Library/metadata/42/42b52d6100b434a8aaf894d61e9084b3
+#	deleted:    Voyage/Library/metadata/82/82995fd74fa10434783e9ac65a1f8253
+#	deleted:    Voyage/Library/metadata/eb/eb3381ff3a5e24b9faaeed5f5517d2f9
+#	deleted:    Voyage/Library/metadata/ee/ee7ca62e249a644adb1fedc2f8bb9b5e
+#	modified:   Voyage/Voyage-csharp.sln
+#	modified:   Voyage/Voyage.sln
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	Voyage/Assets/Resources/Music/
+#	Voyage/Assets/Standard Assets/
+#	Voyage/Library/metadata/08/
+#	Voyage/Library/metadata/18/
+#	Voyage/Library/metadata/19/195772a1aa172574b8a9bdfc3340410b
+#	Voyage/Library/metadata/28/
+#	Voyage/Library/metadata/2c/
+#	Voyage/Library/metadata/31/
+#	Voyage/Library/metadata/33/
+#	Voyage/Library/metadata/3b/
+#	Voyage/Library/metadata/44/
+#	Voyage/Library/metadata/4c/
+#	Voyage/Library/metadata/4d/
+#	Voyage/Library/metadata/4f/
+#	Voyage/Library/metadata/52/
+#	Voyage/Library/metadata/54/
+#	Voyage/Library/metadata/57/
+#	Voyage/Library/metadata/58/
+#	Voyage/Library/metadata/60/
+#	Voyage/Library/metadata/63/
+#	Voyage/Library/metadata/7e/
+#	Voyage/Library/metadata/80/
+#	Voyage/Library/metadata/81/
+#	Voyage/Library/metadata/82/
+#	Voyage/Library/metadata/8c/
+#	Voyage/Library/metadata/9e/
+#	Voyage/Library/metadata/a2/
+#	Voyage/Library/metadata/a3/
+#	Voyage/Library/metadata/ab/
+#	Voyage/Library/metadata/ac/
+#	Voyage/Library/metadata/ae/
+#	Voyage/Library/metadata/b9/
+#	Voyage/Library/metadata/bf/
+#	Voyage/Library/metadata/c6/
+#	Voyage/Library/metadata/cb/
+#	Voyage/Library/metadata/d6/
+#	Voyage/Library/metadata/d8/
+#	Voyage/Library/metadata/e5/
+#	Voyage/Library/metadata/f2/
+#	Voyage/Library/metadata/f6/
+#	Voyage/Library/metadata/f7/
+#	Voyage/Library/metadata/fc/
+#	Voyage/Temp/
+
